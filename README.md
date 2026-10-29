@@ -26,5 +26,7 @@
 1.  执行 `sql/create_table.sql` 创建数据表结构
 2.  导入原始数据集后，执行 `sql/data_clean.sql` 完成数据清洗
 3.  执行 `sql/metrics_calc.sql` 计算各维度分析指标
-4.  使用 BI 工具打开 `bi/dashboard.pbix` 查看交互式看板
+4.  使用 BI 工具打开 `bi/dashboard.pbix`
+   
+<img width="1600" height="2175" alt="bi_dashboard" src="https://github.com/user-attachments/assets/d4e4bc69-83cd-40e1-8a8c-7020d6521f01" />
 
